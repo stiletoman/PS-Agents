@@ -1,9 +1,9 @@
 # PS-Agents
 
-Repository for **ICS 3202: Artificial Intelligence — Practical Exercise 3: Designing a Searching Agent** (August–November 2026).
+Repository for ICS 3202: Artificial Intelligence, Practical Exercise 3: Designing a Searching Agent (August to November 2026).
 
-The assignment document covers the trailer agent's PEAS description and task environment, a proposed weighted graph of Kenyan highway towns, and a Uniform-Cost Search comparison for routes from Nairobi to Kisumu.
+The assignment describes a self-driving trailer agent and uses Uniform-Cost Search to compare routes from Nairobi to Kisumu on a proposed Kenyan road graph. It includes editable Mermaid diagrams, the flowchart images supplied with the assignment, and a group video-call screenshot.
 
-See [design.md](design.md) for the complete assignment response, source links, calculations, limitations, and groupwork-evidence placeholders.
+See [design.md](design.md) for the complete response, sources, calculations, and limitations.
 
-Before submission, the group should compare the proposed graph with the lecturer's class map, verify every distance consistently in Google Maps (or record an agreed alternative), add genuine groupwork evidence, and replace the provisional values throughout `design.md` where necessary.
+Before submitting, verify the road distances using the agreed map method, compare the graph with the lecturer's class map, and add confirmed group meeting details and contributions to `design.md`.
